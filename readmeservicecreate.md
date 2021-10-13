@@ -1,2 +1,2 @@
 We are creating HOL for Azure SQL Database !
-changed db name.!!
+changed db name.!
